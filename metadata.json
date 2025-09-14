@@ -1,0 +1,5 @@
+{
+  "name": "YouTube Video Insights",
+  "description": "An application to turn any YouTube video into a summary, transcript, or visual scene description using the Gemini API.",
+  "requestFramePermissions": []
+}
